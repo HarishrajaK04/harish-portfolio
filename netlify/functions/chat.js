@@ -68,7 +68,7 @@ exports.handler = async function(event) {
       throw new Error("GEMINI_API_KEY is missing from Netlify.");
     }
 
-    const model = "gemini-2.5-flash";
+    const model = "gemini-3.5-flash";
 
     const prompt = `
 You are the personal portfolio chatbot for Harish Raja.
