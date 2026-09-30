@@ -33,9 +33,9 @@ Career interests:
 - Practical portfolio projects
 
 Contact:
-- Email: YOUR_EMAIL@example.com
-- GitHub: https://github.com/YOUR_GITHUB
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN/
+- Email: harishraja.41104@gmail.com
+- GitHub: https://github.com/HarishrajaK04
+- LinkedIn: https://www.linkedin.com/in/harish-raja-4367ab246/
 `;
 
 exports.handler = async function(event) {
